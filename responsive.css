@@ -22,3 +22,13 @@
 .lessons .col {
     width: 100%;
 }
+
+.why-us {
+    background-color: black;
+    margin: 0;
+    padding: 3rem 0;
+}
+
+.steps {
+    margin-bottom: 0;
+}
